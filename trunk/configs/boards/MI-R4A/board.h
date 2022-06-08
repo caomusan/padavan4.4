@@ -1,5 +1,3 @@
-/* Xiaomi MI-R4A */
-
 #define BOARD_PID		"MI-R4A"
 #define BOARD_NAME		"MI-R4A"
 #define BOARD_DESC		"Xiaomi Mi R4A Wireless Router"
@@ -26,5 +24,5 @@
 #define BOARD_HAS_EPHY_L1000	1
 #define BOARD_HAS_EPHY_W1000	1
 #define BOARD_NUM_ETH_EPHY	3
-#define BOARD_NUM_UPHY_USB3	0
-#define BOARD_USB_PORT_SWAP	0
+#undef BOARD_NUM_UPHY_USB3	
+#undef BOARD_USB_PORT_SWAP	
