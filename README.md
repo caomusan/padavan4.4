@@ -1,6 +1,7 @@
 # padavan-4.4 #
 
 forked from minax007/padavan-4.4。2023-6   
+固件默认设置：wifi名称BOARD_PID "_%s"及BOARD_PID "_5G_%s"，密码:1234567890；管理地址192.168.12.1，管理账号:amin,密码:admin。
 This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which is fetch from D-LINK GPL code.
 
 - Features
